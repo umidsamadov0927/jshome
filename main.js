@@ -90,7 +90,7 @@
 
  // sort
 // let a = [3,1,2]
-// let b = a.sort()
+// let b = a.sort((a,b) => a-b)
 // console.log(b)
 
 // let mevalar = ["olma","banan","anor"]
